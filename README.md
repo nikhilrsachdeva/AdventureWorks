@@ -4,7 +4,7 @@ A Microsoft Power BI business intelligence dashboard for AdventureWorks, a ficti
 
 The dataset was supplied with the Maven Analytics Power BI Desktop course. This data was derived from the AdventureWorks sample databases available from Microsoft.
 
-Overview 
+Overview
 
 The customer base spans six countries across three continents: Australia, Canada, France, Germany, United Kingdom, and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include details such as date of birth, annual income, education level, number of children, occupation, and homeowner status.
 
